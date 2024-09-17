@@ -23,7 +23,7 @@ The **Memory Match Game** is a captivating and brain-teasing single-player web g
 
 ## Live Demo
 
-Want to test your memory skills? [Play the game here!](#) (Add live demo link)
+Want to test your memory skills? [Play the game here!](https://memoryflipgameguvi.netlify.app/)
 
 ## Built With
 
